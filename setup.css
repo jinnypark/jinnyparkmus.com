@@ -189,4 +189,12 @@ body div footer {
   text-align: left;
 }
 
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: white !important;
+    color: blue !important;
+}
+.btn-primary:hover {
+  background-color: blue !important;
+  color: white !important
+}
 /*# sourceMappingURL=setup.css.map */
